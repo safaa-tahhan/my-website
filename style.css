@@ -1,0 +1,83 @@
+*{
+
+	margin: 0;
+	padding: 0;
+}
+#safaa{
+
+  margin: 0 auto;
+  text-align: center; 
+
+ 
+} 
+#nheader{
+	background-image: url('./images/zz.jpg');
+	/*background-size: cover;*/
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: 
+	background-position: center;
+	background-color: purple;
+	padding: 80px;
+}
+h1{
+	color: white;
+}
+#npara{
+	background-color: #b2bec3; 
+	height: 700px;
+	padding: -50px;
+}
+.redCOLOR{
+	color: black;
+}
+.text_para{
+	/*background:  #38ada9; */
+	color: #black;
+	font-size: 35px;
+	font-family: verdana
+
+}
+#footer{
+	background-color: #38ada9;
+	padding:30px;
+
+}
+.images1{
+	text-align: center;
+	margin-left: 20px;
+	margin-top: 25px;
+	display: inline-block;
+	/*transform: rotate(45deg);
+	transition: transform 2s;*/
+
+}
+.images1/*hover{
+	text-align: center;
+	margin-left: 10px;
+	margin-top: 10px;
+	display: inline-block;
+
+
+}*/
+.text_para{
+border: solid 5px #d35400;
+color: #black;
+	font-size: 20px;
+	font-family: verdana;
+
+
+} 
+#omar{
+	background-color: #38ada9; 
+	height: 100px;
+	padding: -50px;
+}
+.images{
+	background: #b2bec3; 
+	font-size:550px;
+	/*border: solid 5px black;
+	padding: 15px;*/
+
+
+}
